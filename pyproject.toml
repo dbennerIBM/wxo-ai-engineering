@@ -1,0 +1,18 @@
+[project]
+name = "rag-docling-granite-elastic"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "elasticsearch>=8.0,<9.0",
+    "numpy",
+    "docling",
+    "sentence-transformers",
+    "langchain",
+    "langchain-text-splitters",
+    "torch",
+    "ocrmac>=1.0.0",
+    "ibm-watsonx-orchestrate>=1.12.2",
+    "mlx-vlm>=0.3.3",
+]

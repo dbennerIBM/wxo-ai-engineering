@@ -1,0 +1,2 @@
+# Building better RAG agents with Docling Granite 4, Granite embedding models, and Elasticsearch 
+## This guide specifically covers Enterprise and Platinum versions on IBM Cloud and IBM TechZone which both use ES version 8.x and typically 8.15
